@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasKaiky
-- 👀 I’m interested in HTML, CSS and JS
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in HTML, CSS, JS, Python and SQL
+- 🌱 I’m currently learning HTML, CSS, Python and SQL
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me lucaspessoapinho2@gmail.com
 
