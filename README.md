@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LucasKaiky
-- 👀 I’m interested in HTML, CSS, JS, Python and SQL
-- 🌱 I’m currently learning HTML, CSS, Python and SQL
-- 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me lucaspessoapinho2@gmail.com
+- 👀 I’m interested in Python, SQL and Data Science
+- 🌱 I’m currently learning Python, SQL and Data Science
+- 💞️ I’m looking to collaborate on softwares projects, games or websites 
+- 📫 How to reach me lucaspessoapinho@gmail.com
 
 <!---
 LucasKaiky/LucasKaiky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
