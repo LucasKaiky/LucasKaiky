@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LucasKaiky
-- 👀 I’m interested in Python, SQL, C, PHP and Data Science
-- 🌱 I’m currently learning C, PHP, Python and Data Science
-- 💞️ I’m looking to collaborate on softwares projects, games or websites 
-- 📫 How to reach me lucaspessoapinho@gmail.com
+<div>
+<a href="https://github.com/LucasKaiky">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!---
 LucasKaiky/LucasKaiky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
