@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasKaiky
-- 👀 I’m interested in Python, SQL and Data Science
-- 🌱 I’m currently learning Python, SQL and Data Science
+- 👀 I’m interested in Python, SQL, C, PHP and Data Science
+- 🌱 I’m currently learning C, PHP, Python and Data Science
 - 💞️ I’m looking to collaborate on softwares projects, games or websites 
 - 📫 How to reach me lucaspessoapinho@gmail.com
 
