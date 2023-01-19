@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKaiky&hide=C,PHP)](https://github.com/LucasKaiky/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKaiky&hide=C,PHP&theme=dark)](https://github.com/LucasKaiky/github-readme-stats)
 
 <picture>
 <source 
