@@ -1,10 +1,28 @@
-<div>
-<a href="https://github.com/LucasKaiky">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKaiky&layout=compact&langs_count=6&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasKaiky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+Bem-vindo ao meu perfil no GitHub!
+GitHub Profile Picture
 
-<!---
-LucasKaiky/LucasKaiky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Seu Nome e sou um programador front-end apaixonado por criar soluções inovadoras e intuitivas para o usuário.
+
+Aqui no meu perfil, você encontrará projetos interessantes que desenvolvi ao longo do tempo e projetos pessoais onde estou trabalhando atualmente.
+
+Projetos Destacados
+Nome do Projeto: Descrição breve do projeto.
+Nome do Projeto: Descrição breve do projeto.
+Nome do Projeto: Descrição breve do projeto.
+Tecnologias
+HTML
+CSS
+JavaScript
+jQuery
+Bootstrap
+Contribua
+Se você estiver interessado em contribuir para um dos meus projetos, fique à vontade para criar um pull request. Também estou sempre aberto a sugestões e feedbacks para melhorar meus projetos.
+
+Créditos
+Agradeço a todas as bibliotecas e ferramentas que usei em meus projetos.
+
+Licença
+Todos os projetos aqui no meu perfil estão licenciados sob a Licença do Projeto.
+
+Entre em contato
+Sinta-se à vontade para me contatar através de minhas redes sociais ou email para qualquer dúvida ou comentário.
