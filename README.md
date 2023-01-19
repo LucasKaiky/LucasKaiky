@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKaiky)](https://github.com/LucasKaiky/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKaiky)](https://github.com/LucasKaiky/github-readme-stats
 
 <picture>
 <source 
