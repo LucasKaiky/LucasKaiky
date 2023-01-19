@@ -1,3 +1,5 @@
+https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKaiky)](https://github.com/LucasKaiky/github-readme-stats)
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=LucasKaiky&show_icons=true&theme=dark"
