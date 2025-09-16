@@ -14,7 +14,7 @@
 
 ### Tech
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,react,js,html,css,docker,git,github,vscode&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,react,js,html,css,git,github,vscode&perline=12" alt="Tech stack" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Revit%20API-Autodesk-0696D7?logo=autodesk&logoColor=white&style=flat" alt="Revit API" />
