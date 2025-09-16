@@ -2,8 +2,6 @@
 <p align="center"><b>Full‑Stack Developer · C# · .NET · Django · Python · React · Revit API</b></p>
 
 <p align="center">
-  <a href="https://github.com/LucasKaiky?tab=followers"><img src="https://img.shields.io/github/followers/LucasKaiky?label=Followers&style=flat" alt="GitHub followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=LucasKaiky&style=flat&label=Profile+Views" alt="Profile views"/>
   <a href="https://www.linkedin.com/in/lucas-kaiky-pessoa-pinho-de-carvalho-263821232/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"></a>
 </p>
 
@@ -36,4 +34,3 @@
   <a href="mailto:lucaspessoapinho@gmail.com"><img src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white&style=flat" alt="Email"/></a>
 </p>
 
-<sub>Minimal layout · Works in dark/light mode.</sub>
